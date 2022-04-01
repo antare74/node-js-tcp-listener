@@ -1,0 +1,12 @@
+{
+  "name": "tcp-socket-listen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aris",
+  "license": "MIT",
+  "dependencies": {
+    "i": "^0.3.7",
+    "websocket": "^1.0.34",
+    "ws": "^8.5.0"
+  }
+}
