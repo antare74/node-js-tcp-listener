@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "aris",
   "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "i": "^0.3.7",
     "websocket": "^1.0.34",
